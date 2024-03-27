@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://klmui.github.io/test-site/sitemap.xml
+Sitemap: https://kmui-epic.github.io/test-site/sitemap.xml
